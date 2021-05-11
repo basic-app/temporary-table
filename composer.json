@@ -1,0 +1,12 @@
+{
+    "name": "basic-app/temporary-table",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\TemporaryTable\\": ""
+        }
+    },
+    "require": {
+        "basic-app/model": "*"
+    }
+}
